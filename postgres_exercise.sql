@@ -3,7 +3,7 @@
 We will be working with database northwind.db we have set up and connected to in the activity Connect to Remote PostgreSQL Database earlier.
 
 
--- MAKE YOURSELF FAIMLIAR WITH THE DATABASE AND TABLES HERE
+-- MAKE YOURSELF FAMILIAR WITH THE DATABASE AND TABLES HERE
 
 
 
